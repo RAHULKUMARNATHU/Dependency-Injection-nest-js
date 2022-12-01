@@ -34,22 +34,22 @@ $ npm install
 
 ## Generate  Module 
 ``` 
-    nest g module computer
-    nest g module disk
-    nest g module cpu
-    nest g module power
+    $ nest g module computer
+    $ nest g module disk
+    $ nest g module cpu
+    $ nest g module power
 ```
 
 ## Generate  Services 
 ``` 
-    nest g service disk
-    nest g service cpu
-    nest g service power
+  $ nest g service disk
+  $ nest g service cpu
+  $ nest g service power
 ```
 
 ## Generate  controller
 ``` 
-    nest g controller computer
+    $ nest g controller computer
 ```
 
 
